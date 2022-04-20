@@ -12,10 +12,10 @@ Accomplished software engineer with 2+ years of professional experience in comme
 * 🧠  I'm learning Next.js
 
 <a href="https://www.twitter.com/iheathers" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/iheathers?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+src="https://img.shields.io/twitter/follow/iheathers?logo=twitter&style=for-the-badge&color=3382ed&labelColor=27272a"
 /></a><a href="https://www.github.com/iheathers" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/iheathers?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitch.tv/iheathers" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitch/status/iheathers?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
+src="https://img.shields.io/github/followers/iheathers?logo=github&style=for-the-badge&color=3382ed&labelColor=27272a" /></a><a href="https://www.twitch.tv/iheathers" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitch/status/iheathers?logo=twitchsx&style=for-the-badge&color=3382ed&labelColor=27272a&label=TWITCH+STATUS" /></a>
 
 ### Skills
 
@@ -60,10 +60,10 @@ src="https://img.shields.io/twitch/status/iheathers?logo=twitchsx&style=for-the-
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/iheathers"><img src="https://github-readme-stats.vercel.app/api?username=iheathers&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="iheathers's GitHub stats" /></a>
+<a href="http://www.github.com/iheathers"><img src="https://github-readme-stats.vercel.app/api?username=iheathers&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=27272a&hide_border=true&show_icons=true" alt="iheathers's GitHub stats" /></a>
 
-<a href="http://www.github.com/iheathers"><img src="https://github-readme-streak-stats.herokuapp.com/?user=iheathers&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/iheathers"><img src="https://github-readme-streak-stats.herokuapp.com/?user=iheathers&stroke=ffffff&background=27272a&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/iheathers"><img src="https://activity-graph.herokuapp.com/graph?username=iheathers&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/iheathers"><img src="https://activity-graph.herokuapp.com/graph?username=iheathers&bg_color=27272a&color=ffffff&line=3382ed&point=ffffff&area_color=27272a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/iheathers" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iheathers&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/iheathers" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iheathers&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
