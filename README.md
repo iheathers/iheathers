@@ -6,9 +6,9 @@ Full Stack Web Developer | Software Engineer
 
 Accomplished software engineer with 2+ years of professional experience in commercial application development. Passionate to delivering innovative, efficient, and scalable business solutions to companies across the globe using state-of-art technologies.
 
-* 🌍  I'm based in Kathmandu, Nepal
+* 🌍  I'm based in Perth, Australia
 * ✉️  You can contact me at [pritamshresthaofficial@gmail.com](mailto:pritamshresthaofficial@gmail.com)
-* 🚀  I'm currently working on [Machnetinc](http://machnetinc.com)
+* 🚀  I'm currently studying Masters of Information Technology in [The University of Western Australia](https://www.uwa.edu.au)
 * 🧠  I'm learning Next.js
 
 <a href="https://www.twitter.com/iheathers" target="_blank" rel="noreferrer"><img
