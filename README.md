@@ -17,9 +17,6 @@ src="https://img.shields.io/twitter/follow/iheathers?logo=twitter&style=for-the-
 src="https://img.shields.io/github/followers/iheathers?logo=github&style=for-the-badge&color=3382ed&labelColor=27272a" /></a><a href="https://www.twitch.tv/iheathers" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/iheathers?logo=twitchsx&style=for-the-badge&color=3382ed&labelColor=27272a&label=TWITCH+STATUS" /></a>
 
-
-<a href="https://gitroll.io/profile/uhyWUogMVl9R1Tx1lAq1Hc17fuZf1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uhyWUogMVl9R1Tx1lAq1Hc17fuZf1" alt="GitRoll Profile Badge"/></a>
-
 ### Skills
 
 <p align="left">
