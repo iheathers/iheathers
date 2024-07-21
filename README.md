@@ -1,15 +1,13 @@
 Hi 👋 My name is Pritam Shrestha
 ================================
 
-Full Stack Web Developer | Software Engineer
+Software Engineer
 --------------------------------------------
 
 Software engineer with 2 years of professional experience in commercial application development. Passionate to delivering innovative, efficient, and scalable business solutions to companies across the globe using state-of-art technologies.
 
 * 🌍  I'm based in Perth, Australia
 * ✉️  You can contact me at [pritamshresthaofficial@gmail.com](mailto:pritamshresthaofficial@gmail.com)
-* 🚀  I'm currently studying Masters of Information Technology in [The University of Western Australia](https://www.uwa.edu.au)
-* 🧠  I'm learning Next.js
 
 <a href="https://www.twitter.com/iheathers" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/iheathers?logo=twitter&style=for-the-badge&color=3382ed&labelColor=27272a"
