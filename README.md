@@ -62,7 +62,7 @@ src="https://img.shields.io/twitch/status/iheathers?logo=twitchsx&style=for-the-
 #### Build and Deployment Tools
 
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
-<a href="https://www.nginx.com/" target="_blank" rel="noreferrer"><img src="[https://www.nginx.com/wp-content/uploads/2020/05/NGINX-product-icon.svg](https://upload.wikimedia.org/wikipedia/commons/c/c5/Nginx_logo.svg)" width="36" height="36" alt="Nginx" /></a>
+<a href="https://www.nginx.com/" target="_blank" rel="noreferrer"><img src="https://www.nginx.com/wp-content/uploads/2020/05/NGINX-product-icon.svg" width="36" height="36" alt="Nginx" /></a>
 </p>
 
 
