@@ -1,4 +1,4 @@
-Hi 👋 My name is Pritam Shrestha
+Hi 👋 I am Pritam Shrestha
 ================================
 
 Software Engineer
