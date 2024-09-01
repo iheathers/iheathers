@@ -84,13 +84,3 @@ src="https://img.shields.io/twitch/status/iheathers?logo=twitchsx&style=for-the-
 <a href="https://www.twitter.com/iheathers" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> 
 <a href="https://www.youtube.com/channel/UCfM79XRa3JBrBznJMUn7dcg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a> 
 <a href="https://www.twitch.tv/iheathers" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/iheathers"><img src="https://github-readme-stats.vercel.app/api?username=iheathers&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=000000&icon_color=3382ed&bg_color=eeeeee&hide_border=true&show_icons=true" alt="iheathers's GitHub stats" /></a>
-
-<a href="http://www.github.com/iheathers"><img src="https://github-readme-streak-stats.herokuapp.com/?user=iheathers&stroke=000000&background=eeeeee&ring=3382ed&fire=3382ed&currStreakNum=000000&currStreakLabel=3382ed&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
-
-<a href="https://github.com/iheathers" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iheathers&langs_count=10&title_color=3382ed&text_color=000000&icon_color=3382ed&bg_color=eeeeee&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
