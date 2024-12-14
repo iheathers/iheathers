@@ -8,6 +8,7 @@ Software Engineer specialising in data engineering, data analysis, and full-stac
 
 * 🌍  I'm based in Perth, Australia
 * ✉️  You can contact me at [pritamshresthaofficial@gmail.com](mailto:pritamshresthaofficial@gmail.com)
+* 👉  <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=pritam-shrestha" target="_blank">Follow me on LinkedIn</a>
 
 <a href="https://www.twitter.com/iheathers" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/iheathers?logo=twitter&style=for-the-badge&color=3382ed&labelColor=27272a"
