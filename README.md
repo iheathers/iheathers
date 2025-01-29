@@ -4,7 +4,7 @@ Hi 👋 I am Pritam Shrestha
 Software Engineer
 --------------------------------------------
 
-Software Engineer specialising in data engineering, data analysis, and full-stack development. Proficient in JavaScript, Python, and SQL. Experienced in delivering digital solutions and collaborating with teams to advance product development and data-driven decision-making. Committed to solving complex problems and achieving impactful results.
+Software Engineer with strong full-stack development expertise and a foundational understanding of data engineering and data analysis. Proficient in JavaScript, Python, and SQL, with experience in building digital solutions and collaborating with teams to drive product development and data-driven decision-making. Passionate about solving complex problems and delivering impactful results.
 
 * 🌍  I'm based in Perth, Australia
 * ✉️  You can contact me at [pritamshresthaofficial@gmail.com](mailto:pritamshresthaofficial@gmail.com)
